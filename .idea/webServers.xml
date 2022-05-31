@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f6a55e00-a0fc-4c39-8145-df42af64ba22" name="mydocker" url="">
+        <fileTransfer rootFolder="/data/learndocker" accessType="SFTP" host="43.138.188.50" port="22" sshConfigId="fde05d4f-9d58-4778-b838-4d7d662b7c69" sshConfig="root@43.138.188.50:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
